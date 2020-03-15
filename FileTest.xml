@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.4" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>97</int>
+      <int>2</int>
+      <int>6</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Nazar</string>
+    </void>
+    <void property="lastName">
+     <string>Besen</string>
+    </void>
+    <void property="taxNumber">
+     <string>454891818</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>1998</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.5" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>118</int>
+      <int>4</int>
+      <int>5</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Dima</string>
+    </void>
+    <void property="lastName">
+     <string>BMW</string>
+    </void>
+    <void property="taxNumber">
+     <string>4656846</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>1958</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>-44</int>
+      <int>11</int>
+      <int>0</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Ivan</string>
+    </void>
+    <void property="lastName">
+     <string>Ivaniv</string>
+    </void>
+    <void property="taxNumber">
+     <string>1481614</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>1985</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>-343</int>
+      <int>4</int>
+      <int>2</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Nazar</string>
+    </void>
+    <void property="lastName">
+     <string>Skoda</string>
+    </void>
+    <void property="taxNumber">
+     <string>9531561</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>2001</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>-343</int>
+      <int>4</int>
+      <int>2</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Petro</string>
+    </void>
+    <void property="lastName">
+     <string>Opel</string>
+    </void>
+    <void property="taxNumber">
+     <string>9846521</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>1995</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="models.Student">
+    <void property="birthDate">
+     <object class="java.util.Date">
+      <int>-149</int>
+      <int>3</int>
+      <int>1</int>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>Vova</string>
+    </void>
+    <void property="lastName">
+     <string>VW</string>
+    </void>
+    <void property="taxNumber">
+     <string>8765353</string>
+    </void>
+    <void property="yearOfEntry">
+     <int>1945</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
